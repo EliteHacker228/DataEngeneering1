@@ -1,0 +1,2 @@
+middle_quantity,max_rating,min_price
+465,5.01,348.0
