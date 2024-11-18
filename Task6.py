@@ -1,4 +1,4 @@
-# Задание 5, вариант 41
+# Задание 6, вариант 41
 
 from bs4 import BeautifulSoup
 import requests
