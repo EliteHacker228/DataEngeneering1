@@ -1,2 +1,0 @@
-product_id,name,price,quantity,category,description,production_date,expiration_date,rating,status
-41,Окра,1860.0,274,Овощи,"Отличается высоким содержанием бета-каротина, необходимого для здоровья глаз и кожи.",1998-11-18,2012-01-09,0.63,Available for Pickup
