@@ -7,7 +7,7 @@ import pandas as pd
 import os
 
 data = []
-with open("dataset-mini.csv", "r", encoding="utf-8") as file:
+with open("dataset.csv", "r", encoding="utf-8") as file:
     reader = csv.DictReader(file)
     for row in reader:
         data.append({
