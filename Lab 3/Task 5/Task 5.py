@@ -59,7 +59,8 @@ def process_vargan_name(vargan_name, names_stats):
 def process_vargan_names(vargans):
     for vargan in vargans:
         vargan_name = vargan['name']
-        vargans_names_stats[vargan_name]['freq'] = vargans_names_stats[vargan_name]['count'] / vargans_names_stats['total_count']
+        vargans_names_stats[vargan_name]['freq'] = vargans_names_stats[vargan_name]['count'] / vargans_names_stats[
+            'total_count']
 
 
 def pase_vargans_catalogue(url):
@@ -88,6 +89,37 @@ def pase_vargans_catalogue(url):
         print("Ошибка при получении страницы:", response.status_code)
 
 
+def handle_text(text, vargan):
+    if 'длина' in text and ('варгана' in text or 'инструмента'):
+        vargan['corpse_length'] = float(re.findall(r'\d+\.?\d*', text
+                                                   .replace(' ', '')
+                                                   .replace(',', '.'))[0])
+    if 'размер' in text and 'корпуса' in text:
+        vargan['corpse_width'] = float(re.findall(r'\d+\.?\d*', text
+                                                  .replace(' ', '')
+                                                  .replace(',', '.'))[0])
+    if 'края' in text and 'язычка' in text:
+        vargan['corpse_narrowest_part'] = float(re.findall(r'\d+\.?\d*', text
+                                                           .replace(' ', '')
+                                                           .replace(',', '.'))[1])
+    if 'толщина' in text and 'корпуса' in text:
+        vargan['corpse_thickness'] = float(re.findall(r'\d+\.?\d*', text
+                                                      .replace(' ', '')
+                                                      .replace(',', '.'))[0])
+    if 'длина' in text and 'язычка' in text:
+        vargan['tongue_length'] = float(re.findall(r'\d+\.?\d*', text
+                                                   .replace(' ', '')
+                                                   .replace(',', '.'))[0])
+    if 'длина' in text and ('загиба' in text or 'колена' in text):
+        vargan['tongue_curvedness'] = float(re.findall(r'\d+\.?\d*', text
+                                                       .replace(' ', '')
+                                                       .replace(',', '.'))[0])
+    if 'вес' in text:
+        vargan['weight'] = float(re.findall(r'\d+\.?\d*', text
+                                            .replace(' ', '')
+                                            .replace(',', '.'))[0])
+
+
 def parse_vargan_page(url):
     response = requests.get(url)
     if response.status_code == 200:
@@ -104,38 +136,16 @@ def parse_vargan_page(url):
             if img['src'].startswith('//i.siteapi.org'):
                 vargan['imgs'].append('https:' + img['src'])
         description = soup.find('div', id='product-full-desc')
-        # 6
         ps = description.find_all('p')
-        for i in range(len(ps)):
-            p = ps[i]
-            if 'длина' in p.get_text().lower() and 'варгана' in p.get_text().lower():
-                vargan['corpse_length'] = float(re.findall(r'\d+\.?\d*', p.get_text()
-                                                           .replace(' ', '')
-                                                           .replace(',', '.'))[0])
-            if 'размер' in p.get_text().lower() and 'корпуса' in p.get_text().lower():
-                vargan['corpse_width'] = float(re.findall(r'\d+\.?\d*', p.get_text()
-                                                          .replace(' ', '')
-                                                          .replace(',', '.'))[0])
-            if 'ширина' in p.get_text().lower() and 'края' in p.get_text().lower():
-                vargan['corpse_narrowest_part'] = float(re.findall(r'\d+\.?\d*', p.get_text()
-                                                                   .replace(' ', '')
-                                                                   .replace(',', '.'))[1])
-            if 'толщина' in p.get_text().lower() and 'корпуса' in p.get_text().lower():
-                vargan['corpse_thickness'] = float(re.findall(r'\d+\.?\d*', p.get_text()
-                                                              .replace(' ', '')
-                                                              .replace(',', '.'))[0])
-            if 'длина' in p.get_text().lower() and 'язычка' in p.get_text().lower():
-                vargan['tongue_length'] = float(re.findall(r'\d+\.?\d*', p.get_text()
-                                                           .replace(' ', '')
-                                                           .replace(',', '.'))[0])
-            if 'длина' in p.get_text().lower() and 'загиба' in p.get_text().lower():
-                vargan['tongue_curvedness'] = float(re.findall(r'\d+\.?\d*', p.get_text()
-                                                               .replace(' ', '')
-                                                               .replace(',', '.'))[0])
-            if 'вес' in p.get_text().lower() and 'варгана' in p.get_text().lower():
-                vargan['weight'] = float(re.findall(r'\d+\.?\d*', p.get_text()
-                                                    .replace(' ', '')
-                                                    .replace(',', '.'))[0])
+        for p in ps:
+            if p.get_text().count('•') > 1:
+                for elem in p.get_text().split('•'):
+                    handle_text(elem.lower(), vargan)
+            else:
+                handle_text(p.get_text().lower(), vargan)
+        spans = description.find_all('span')
+        for span in spans:
+            handle_text(span.get_text().lower(), vargan)
 
         return vargan
 
