@@ -164,7 +164,7 @@ for vargan in vargans_catalogue:
     print(f"Parsed: {vargan['link']}")
 
 # Сортируем варганы по весу, чтобы сначала вывести тяжёлые
-vargans = sorted(vargans, key=lambda vargan: vargan['weight'] if 'weight' in vargan else 0, reverse=True)
+vargans = sorted(vargans, key=lambda vargan: vargan['weight'], reverse=True)
 
 # Оставляем только варганы дешевле 8000 руб
 filtered_vargans = list(filter(lambda vargan: vargan['price'] < 8000, vargans))
