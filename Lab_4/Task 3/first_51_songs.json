@@ -1,0 +1,410 @@
+[
+  {
+    "tempo": "100.0",
+    "duration_ms": 187840,
+    "genre": "hip hop, pop, R&B",
+    "song": "Jenny from the Block (feat. Jadakiss & Styles P.) - Track Masters Remix",
+    "artist": "Jennifer Lopez",
+    "year": 2002
+  },
+  {
+    "tempo": "100.0",
+    "duration_ms": 189466,
+    "genre": "rock",
+    "song": "Natural",
+    "artist": "Imagine Dragons",
+    "year": 2018
+  },
+  {
+    "tempo": "100.001",
+    "duration_ms": 157202,
+    "genre": "pop, Dance/Electronic",
+    "song": "SOS (feat. Aloe Blacc)",
+    "artist": "Avicii",
+    "year": 2019
+  },
+  {
+    "tempo": "100.001",
+    "duration_ms": 226738,
+    "genre": "pop, Dance/Electronic",
+    "song": "Roses",
+    "artist": "The Chainsmokers",
+    "year": 2015
+  },
+  {
+    "tempo": "100.005",
+    "duration_ms": 269400,
+    "genre": "hip hop, pop, R&B",
+    "song": "U Don't Have to Call",
+    "artist": "Usher",
+    "year": 2001
+  },
+  {
+    "tempo": "100.007",
+    "duration_ms": 172800,
+    "genre": "hip hop, pop",
+    "song": "Ric Flair Drip (with Metro Boomin)",
+    "artist": "Offset",
+    "year": 2017
+  },
+  {
+    "tempo": "100.01",
+    "duration_ms": 223133,
+    "genre": "hip hop, pop",
+    "song": "Music (feat. Marvin Gaye)",
+    "artist": "Erick Sermon",
+    "year": 2001
+  },
+  {
+    "tempo": "100.01",
+    "duration_ms": 219920,
+    "genre": "hip hop, pop, R&B, latin",
+    "song": "Baby, I'm Back",
+    "artist": "Baby Bash",
+    "year": 2005
+  },
+  {
+    "tempo": "100.011",
+    "duration_ms": 222066,
+    "genre": "rock, metal",
+    "song": "Second Chance",
+    "artist": "Shinedown",
+    "year": 2008
+  },
+  {
+    "tempo": "100.011",
+    "duration_ms": 259333,
+    "genre": "pop",
+    "song": "Unwritten",
+    "artist": "Natasha Bedingfield",
+    "year": 2004
+  },
+  {
+    "tempo": "100.011",
+    "duration_ms": 212893,
+    "genre": "pop, latin",
+    "song": "La Tortura (feat. Alejandro Sanz)",
+    "artist": "Shakira",
+    "year": 2005
+  },
+  {
+    "tempo": "100.014",
+    "duration_ms": 213733,
+    "genre": "hip hop, pop, Dance/Electronic",
+    "song": "Turn Down for What",
+    "artist": "DJ Snake",
+    "year": 2013
+  },
+  {
+    "tempo": "100.015",
+    "duration_ms": 214289,
+    "genre": "pop, Dance/Electronic",
+    "song": "Happier",
+    "artist": "Marshmello",
+    "year": 2018
+  },
+  {
+    "tempo": "100.017",
+    "duration_ms": 217706,
+    "genre": "pop",
+    "song": "We Don't Talk Anymore (feat. Selena Gomez)",
+    "artist": "Charlie Puth",
+    "year": 2016
+  },
+  {
+    "tempo": "100.021",
+    "duration_ms": 196906,
+    "genre": "rock, metal",
+    "song": "Breaking the Habit",
+    "artist": "Linkin Park",
+    "year": 2003
+  },
+  {
+    "tempo": "100.024",
+    "duration_ms": 218093,
+    "genre": "pop, latin",
+    "song": "Hips Don't Lie (feat. Wyclef Jean)",
+    "artist": "Shakira",
+    "year": 2005
+  },
+  {
+    "tempo": "100.025",
+    "duration_ms": 263173,
+    "genre": "hip hop, pop, R&B",
+    "song": "What's My Name?",
+    "artist": "Rihanna",
+    "year": 2010
+  },
+  {
+    "tempo": "100.025",
+    "duration_ms": 263173,
+    "genre": "hip hop, pop, R&B",
+    "song": "What's My Name?",
+    "artist": "Rihanna",
+    "year": 2010
+  },
+  {
+    "tempo": "100.028",
+    "duration_ms": 186231,
+    "genre": "pop, rock",
+    "song": "Miss You (with Major Lazer & Tory Lanez)",
+    "artist": "Cashmere Cat",
+    "year": 2018
+  },
+  {
+    "tempo": "100.034",
+    "duration_ms": 223186,
+    "genre": "pop, Dance/Electronic",
+    "song": "Stole the Show",
+    "artist": "Kygo",
+    "year": 2016
+  },
+  {
+    "tempo": "100.04",
+    "duration_ms": 197173,
+    "genre": "pop",
+    "song": "Stupid Girls",
+    "artist": "P!nk",
+    "year": 2006
+  },
+  {
+    "tempo": "100.041",
+    "duration_ms": 211475,
+    "genre": "pop",
+    "song": "Attention",
+    "artist": "Charlie Puth",
+    "year": 2017
+  },
+  {
+    "tempo": "100.047",
+    "duration_ms": 214265,
+    "genre": "pop",
+    "song": "Don't Wanna Know (feat. Kendrick Lamar)",
+    "artist": "Maroon 5",
+    "year": 2018
+  },
+  {
+    "tempo": "100.05",
+    "duration_ms": 193058,
+    "genre": "pop, Dance/Electronic",
+    "song": "Team",
+    "artist": "Lorde",
+    "year": 2013
+  },
+  {
+    "tempo": "100.093",
+    "duration_ms": 233560,
+    "genre": "hip hop, pop, R&B",
+    "song": "Over",
+    "artist": "Drake",
+    "year": 2010
+  },
+  {
+    "tempo": "100.094",
+    "duration_ms": 228000,
+    "genre": "Dance/Electronic",
+    "song": "High (feat. Nicole Millar)",
+    "artist": "Peking Duk",
+    "year": 2014
+  },
+  {
+    "tempo": "100.113",
+    "duration_ms": 243986,
+    "genre": "hip hop, pop, R&B",
+    "song": "Don't Love You No More (I'm Sorry)",
+    "artist": "Craig David",
+    "year": 2005
+  },
+  {
+    "tempo": "100.15",
+    "duration_ms": 214893,
+    "genre": "hip hop, pop",
+    "song": "Hey Mama",
+    "artist": "Black Eyed Peas",
+    "year": 2003
+  },
+  {
+    "tempo": "100.163",
+    "duration_ms": 353893,
+    "genre": "hip hop, Dance/Electronic",
+    "song": "Lose Yourself to Dance (feat. Pharrell Williams)",
+    "artist": "Daft Punk",
+    "year": 2013
+  },
+  {
+    "tempo": "100.202",
+    "duration_ms": 211666,
+    "genre": "hip hop, pop",
+    "song": "Get Busy",
+    "artist": "Sean Paul",
+    "year": 2002
+  },
+  {
+    "tempo": "100.215",
+    "duration_ms": 202013,
+    "genre": "hip hop, R&B",
+    "song": "No Letting Go",
+    "artist": "Wayne Wonder",
+    "year": 2003
+  },
+  {
+    "tempo": "100.304",
+    "duration_ms": 203506,
+    "genre": "rock",
+    "song": "Naive",
+    "artist": "The Kooks",
+    "year": 2006
+  },
+  {
+    "tempo": "100.315",
+    "duration_ms": 177685,
+    "genre": "hip hop, pop",
+    "song": "Talk Dirty (feat. 2 Chainz)",
+    "artist": "Jason Derulo",
+    "year": 2013
+  },
+  {
+    "tempo": "100.315",
+    "duration_ms": 177685,
+    "genre": "hip hop, pop",
+    "song": "Talk Dirty (feat. 2 Chainz)",
+    "artist": "Jason Derulo",
+    "year": 2013
+  },
+  {
+    "tempo": "100.363",
+    "duration_ms": 127920,
+    "genre": "rock",
+    "song": "Intro",
+    "artist": "The xx",
+    "year": 2009
+  },
+  {
+    "tempo": "100.38",
+    "duration_ms": 201706,
+    "genre": "World/Traditional, pop, Folk/Acoustic",
+    "song": "Suddenly I See",
+    "artist": "KT Tunstall",
+    "year": 2005
+  },
+  {
+    "tempo": "100.418",
+    "duration_ms": 233720,
+    "genre": "pop",
+    "song": "Love Yourself",
+    "artist": "Justin Bieber",
+    "year": 2015
+  },
+  {
+    "tempo": "100.46",
+    "duration_ms": 198346,
+    "genre": "R&B",
+    "song": "Shackles (Praise You)",
+    "artist": "Mary Mary",
+    "year": 2000
+  },
+  {
+    "tempo": "100.541",
+    "duration_ms": 205426,
+    "genre": "hip hop, pop, R&B",
+    "song": "Money In The Grave (Drake ft. Rick Ross)",
+    "artist": "Drake",
+    "year": 2019
+  },
+  {
+    "tempo": "100.584",
+    "duration_ms": 211440,
+    "genre": "pop, R&B",
+    "song": "Pray For Me (with Kendrick Lamar)",
+    "artist": "The Weeknd",
+    "year": 2018
+  },
+  {
+    "tempo": "100.618",
+    "duration_ms": 268746,
+    "genre": "pop",
+    "song": "Pure Shores",
+    "artist": "All Saints",
+    "year": 2000
+  },
+  {
+    "tempo": "100.631",
+    "duration_ms": 289359,
+    "genre": "pop",
+    "song": "The Flood",
+    "artist": "Take That",
+    "year": 2010
+  },
+  {
+    "tempo": "100.813",
+    "duration_ms": 211320,
+    "genre": "hip hop, pop",
+    "song": "Get It Poppin' (feat. Nelly) - Radio Version",
+    "artist": "Fat Joe",
+    "year": 2005
+  },
+  {
+    "tempo": "100.851",
+    "duration_ms": 252706,
+    "genre": "pop, latin",
+    "song": "Nobody Wants to Be Lonely (with Christina Aguilera)",
+    "artist": "Ricky Martin",
+    "year": 2008
+  },
+  {
+    "tempo": "100.963",
+    "duration_ms": 235735,
+    "genre": "Dance/Electronic",
+    "song": "Read All About It",
+    "artist": "Professor Green",
+    "year": 2011
+  },
+  {
+    "tempo": "100.966",
+    "duration_ms": 202093,
+    "genre": "Dance/Electronic",
+    "song": "Lost in the Fire (feat. The Weeknd)",
+    "artist": "Gesaffelstein",
+    "year": 2019
+  },
+  {
+    "tempo": "100.969",
+    "duration_ms": 229866,
+    "genre": "hip hop, pop, R&B",
+    "song": "Run It! (feat. Juelz Santana)",
+    "artist": "Chris Brown",
+    "year": 2005
+  },
+  {
+    "tempo": "100.972",
+    "duration_ms": 267266,
+    "genre": "pop",
+    "song": "Rock Your Body",
+    "artist": "Justin Timberlake",
+    "year": 2002
+  },
+  {
+    "tempo": "101.003",
+    "duration_ms": 196520,
+    "genre": "pop, R&B, Dance/Electronic",
+    "song": "Wait a Minute!",
+    "artist": "WILLOW",
+    "year": 2015
+  },
+  {
+    "tempo": "101.013",
+    "duration_ms": 227000,
+    "genre": "hip hop, pop, R&B, Dance/Electronic",
+    "song": "2 On (feat. ScHoolboy Q)",
+    "artist": "Tinashe",
+    "year": 2014
+  },
+  {
+    "tempo": "101.018",
+    "duration_ms": 223413,
+    "genre": "hip hop, pop, Dance/Electronic",
+    "song": "Feels (feat. Pharrell Williams, Katy Perry & Big Sean)",
+    "artist": "Calvin Harris",
+    "year": 2017
+  }
+]

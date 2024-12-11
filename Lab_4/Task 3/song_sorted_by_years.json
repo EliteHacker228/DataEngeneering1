@@ -1,0 +1,450 @@
+[
+  {
+    "tempo": "102.516",
+    "duration_ms": 197666,
+    "genre": "hip hop, pop",
+    "song": "Switch",
+    "artist": "Will Smith",
+    "year": 2020
+  },
+  {
+    "tempo": "101.993",
+    "duration_ms": 240081,
+    "genre": "World/Traditional, hip hop",
+    "song": "Options",
+    "artist": "NSG",
+    "year": 2020
+  },
+  {
+    "tempo": "179.92",
+    "duration_ms": 214440,
+    "genre": "pop",
+    "song": "All The Things She Said",
+    "artist": "t.A.T.u.",
+    "year": 2020
+  },
+  {
+    "tempo": "102.998",
+    "duration_ms": 171029,
+    "genre": "pop",
+    "song": "Dancing With A Stranger (with Normani)",
+    "artist": "Sam Smith",
+    "year": 2019
+  },
+  {
+    "tempo": "107.356",
+    "duration_ms": 174444,
+    "genre": "pop, Dance/Electronic",
+    "song": "Post Malone (feat. RANI)",
+    "artist": "Sam Feldt",
+    "year": 2019
+  },
+  {
+    "tempo": "98.027",
+    "duration_ms": 209438,
+    "genre": "pop",
+    "song": "Dance Monkey",
+    "artist": "Tones And I",
+    "year": 2019
+  },
+  {
+    "tempo": "135.128",
+    "duration_ms": 194087,
+    "genre": "pop, Dance/Electronic",
+    "song": "bad guy",
+    "artist": "Billie Eilish",
+    "year": 2019
+  },
+  {
+    "tempo": "133.992",
+    "duration_ms": 200889,
+    "genre": "hip hop, pop",
+    "song": "Please Me",
+    "artist": "Cardi B",
+    "year": 2019
+  },
+  {
+    "tempo": "202.015",
+    "duration_ms": 192470,
+    "genre": "hip hop, pop",
+    "song": "Pure Water (with Migos)",
+    "artist": "Mustard",
+    "year": 2019
+  },
+  {
+    "tempo": "98.994",
+    "duration_ms": 178480,
+    "genre": "pop, Dance/Electronic",
+    "song": "Don't Call Me Up",
+    "artist": "Mabel",
+    "year": 2019
+  },
+  {
+    "tempo": "97.984",
+    "duration_ms": 200593,
+    "genre": "hip hop, country",
+    "song": "The Git Up",
+    "artist": "Blanco Brown",
+    "year": 2019
+  },
+  {
+    "tempo": "169.994",
+    "duration_ms": 178426,
+    "genre": "pop",
+    "song": "Cruel Summer",
+    "artist": "Taylor Swift",
+    "year": 2019
+  },
+  {
+    "tempo": "195.685",
+    "duration_ms": 244466,
+    "genre": "pop",
+    "song": "If I Could Go! (feat. Lil' Mo & Sacario)",
+    "artist": "Angie Martinez",
+    "year": 2019
+  },
+  {
+    "tempo": "135.998",
+    "duration_ms": 113000,
+    "genre": "hip hop, pop",
+    "song": "Old Town Road",
+    "artist": "Lil Nas X",
+    "year": 2019
+  },
+  {
+    "tempo": "130.089",
+    "duration_ms": 183026,
+    "genre": "pop",
+    "song": "So Am I",
+    "artist": "Ava Max",
+    "year": 2019
+  },
+  {
+    "tempo": "170.037",
+    "duration_ms": 202333,
+    "genre": "pop",
+    "song": "Juicy",
+    "artist": "Doja Cat",
+    "year": 2019
+  },
+  {
+    "tempo": "133.986",
+    "duration_ms": 190537,
+    "genre": "hip hop, Dance/Electronic",
+    "song": "Ladbroke Grove",
+    "artist": "AJ Tracey",
+    "year": 2019
+  },
+  {
+    "tempo": "116.967",
+    "duration_ms": 190799,
+    "genre": "pop",
+    "song": "Señorita",
+    "artist": "Shawn Mendes",
+    "year": 2019
+  },
+  {
+    "tempo": "188.115",
+    "duration_ms": 196266,
+    "genre": "hip hop, Dance/Electronic",
+    "song": "Vossi Bop",
+    "artist": "Stormzy",
+    "year": 2019
+  },
+  {
+    "tempo": "125.011",
+    "duration_ms": 154447,
+    "genre": "set()",
+    "song": "On A Roll",
+    "artist": "Ashley O",
+    "year": 2019
+  },
+  {
+    "tempo": "190.097",
+    "duration_ms": 186106,
+    "genre": "pop",
+    "song": "boyfriend (with Social House)",
+    "artist": "Ariana Grande",
+    "year": 2019
+  },
+  {
+    "tempo": "102.958",
+    "duration_ms": 177185,
+    "genre": "hip hop, Dance/Electronic",
+    "song": "Boasty (feat. Idris Elba)",
+    "artist": "Wiley",
+    "year": 2019
+  },
+  {
+    "tempo": "140.048",
+    "duration_ms": 178626,
+    "genre": "pop",
+    "song": "7 rings",
+    "artist": "Ariana Grande",
+    "year": 2019
+  },
+  {
+    "tempo": "179.974",
+    "duration_ms": 131240,
+    "genre": "hip hop",
+    "song": "Ransom",
+    "artist": "Lil Tecca",
+    "year": 2019
+  },
+  {
+    "tempo": "110.567",
+    "duration_ms": 202204,
+    "genre": "pop",
+    "song": "How Do You Sleep?",
+    "artist": "Sam Smith",
+    "year": 2019
+  },
+  {
+    "tempo": "176.169",
+    "duration_ms": 250533,
+    "genre": "latin",
+    "song": "Callaita",
+    "artist": "Bad Bunny",
+    "year": 2019
+  },
+  {
+    "tempo": "137.776",
+    "duration_ms": 214203,
+    "genre": "hip hop",
+    "song": "Strike a Pose (feat. Aitch)",
+    "artist": "Young T & Bugsey",
+    "year": 2019
+  },
+  {
+    "tempo": "79.635",
+    "duration_ms": 190066,
+    "genre": "hip hop",
+    "song": "EARFQUAKE",
+    "artist": "Tyler, The Creator",
+    "year": 2019
+  },
+  {
+    "tempo": "95.005",
+    "duration_ms": 206186,
+    "genre": "pop",
+    "song": "Cross Me (feat. Chance the Rapper & PnB Rock)",
+    "artist": "Ed Sheeran",
+    "year": 2019
+  },
+  {
+    "tempo": "127.898",
+    "duration_ms": 225881,
+    "genre": "hip hop, pop, R&B",
+    "song": "Beautiful People",
+    "artist": "Chris Brown",
+    "year": 2019
+  },
+  {
+    "tempo": "98.016",
+    "duration_ms": 207038,
+    "genre": "pop",
+    "song": "Liar",
+    "artist": "Camila Cabello",
+    "year": 2019
+  },
+  {
+    "tempo": "100.001",
+    "duration_ms": 157202,
+    "genre": "pop, Dance/Electronic",
+    "song": "SOS (feat. Aloe Blacc)",
+    "artist": "Avicii",
+    "year": 2019
+  },
+  {
+    "tempo": "125.002",
+    "duration_ms": 188640,
+    "genre": "pop, Dance/Electronic",
+    "song": "Sorry",
+    "artist": "Joel Corry",
+    "year": 2019
+  },
+  {
+    "tempo": "140.969",
+    "duration_ms": 252906,
+    "genre": "pop",
+    "song": "Keisha & Becky - Remix",
+    "artist": "Russ Millions",
+    "year": 2019
+  },
+  {
+    "tempo": "75.445",
+    "duration_ms": 163320,
+    "genre": "hip hop",
+    "song": "Suge",
+    "artist": "DaBaby",
+    "year": 2019
+  },
+  {
+    "tempo": "94.956",
+    "duration_ms": 136568,
+    "genre": "hip hop, pop",
+    "song": "gone girl",
+    "artist": "iann dior",
+    "year": 2019
+  },
+  {
+    "tempo": "120.042",
+    "duration_ms": 215280,
+    "genre": "hip hop",
+    "song": "Circles",
+    "artist": "Post Malone",
+    "year": 2019
+  },
+  {
+    "tempo": "95.881",
+    "duration_ms": 212500,
+    "genre": "hip hop, pop, Dance/Electronic",
+    "song": "Taki Taki (feat. Selena Gomez, Ozuna & Cardi B)",
+    "artist": "DJ Snake",
+    "year": 2019
+  },
+  {
+    "tempo": "105.027",
+    "duration_ms": 301714,
+    "genre": "latin",
+    "song": "China",
+    "artist": "Anuel AA",
+    "year": 2019
+  },
+  {
+    "tempo": "109.891",
+    "duration_ms": 182160,
+    "genre": "pop",
+    "song": "Someone You Loved",
+    "artist": "Lewis Capaldi",
+    "year": 2019
+  },
+  {
+    "tempo": "175.813",
+    "duration_ms": 157492,
+    "genre": "pop",
+    "song": "Easier",
+    "artist": "5 Seconds of Summer",
+    "year": 2019
+  },
+  {
+    "tempo": "89.96",
+    "duration_ms": 157560,
+    "genre": "hip hop",
+    "song": "Sunflower - Spider-Man: Into the Spider-Verse",
+    "artist": "Post Malone",
+    "year": 2019
+  },
+  {
+    "tempo": "147.932",
+    "duration_ms": 217296,
+    "genre": "pop, Dance/Electronic",
+    "song": "NUMB",
+    "artist": "Hayden James",
+    "year": 2019
+  },
+  {
+    "tempo": "169.999",
+    "duration_ms": 190440,
+    "genre": "pop",
+    "song": "break up with your girlfriend, i'm bored",
+    "artist": "Ariana Grande",
+    "year": 2019
+  },
+  {
+    "tempo": "198.065",
+    "duration_ms": 169813,
+    "genre": "pop, Dance/Electronic",
+    "song": "Mad Love",
+    "artist": "Mabel",
+    "year": 2019
+  },
+  {
+    "tempo": "179.968",
+    "duration_ms": 172854,
+    "genre": "latin",
+    "song": "X",
+    "artist": "Nicky Jam",
+    "year": 2019
+  },
+  {
+    "tempo": "105.038",
+    "duration_ms": 126446,
+    "genre": "hip hop, pop, R&B",
+    "song": "My Type",
+    "artist": "Saweetie",
+    "year": 2019
+  },
+  {
+    "tempo": "123.941",
+    "duration_ms": 183290,
+    "genre": "pop",
+    "song": "Don't Start Now",
+    "artist": "Dua Lipa",
+    "year": 2019
+  },
+  {
+    "tempo": "171.993",
+    "duration_ms": 256971,
+    "genre": "hip hop, latin, Dance/Electronic",
+    "song": "Adan y Eva",
+    "artist": "Paulo Londra",
+    "year": 2019
+  },
+  {
+    "tempo": "140.022",
+    "duration_ms": 205803,
+    "genre": "hip hop, pop",
+    "song": "Clout (feat. Cardi B)",
+    "artist": "Offset",
+    "year": 2019
+  },
+  {
+    "tempo": "131.98",
+    "duration_ms": 189052,
+    "genre": "pop",
+    "song": "Kill This Love",
+    "artist": "BLACKPINK",
+    "year": 2019
+  },
+  {
+    "tempo": "102.211",
+    "duration_ms": 162582,
+    "genre": "pop, Dance/Electronic",
+    "song": "i'm so tired...",
+    "artist": "Lauv",
+    "year": 2019
+  },
+  {
+    "tempo": "117.948",
+    "duration_ms": 157605,
+    "genre": "pop, Dance/Electronic",
+    "song": "Ride It",
+    "artist": "Regard",
+    "year": 2019
+  },
+  {
+    "tempo": "88.042",
+    "duration_ms": 181823,
+    "genre": "pop, Dance/Electronic",
+    "song": "One Thing Right",
+    "artist": "Marshmello",
+    "year": 2019
+  },
+  {
+    "tempo": "99.96",
+    "duration_ms": 149546,
+    "genre": "hip hop",
+    "song": "Wow.",
+    "artist": "Post Malone",
+    "year": 2019
+  },
+  {
+    "tempo": "98.985",
+    "duration_ms": 199427,
+    "genre": "hip hop, pop, R&B",
+    "song": "Hot Girl Summer (feat. Nicki Minaj & Ty Dolla $ign)",
+    "artist": "Megan Thee Stallion",
+    "year": 2019
+  }
+]
