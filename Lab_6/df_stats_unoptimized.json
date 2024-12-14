@@ -1,0 +1,158 @@
+[
+  {
+    "column_name": "description",
+    "memory_volume_abs_MB": "3775.09",
+    "memory_volume_rel": "88.71%",
+    "column_type": "object"
+  },
+  {
+    "column_name": "url",
+    "memory_volume_abs_MB": "56.21",
+    "memory_volume_rel": "1.32%",
+    "column_type": "object"
+  },
+  {
+    "column_name": "image_url",
+    "memory_volume_abs_MB": "47.18",
+    "memory_volume_rel": "1.11%",
+    "column_type": "object"
+  },
+  {
+    "column_name": "region_url",
+    "memory_volume_abs_MB": "32.60",
+    "memory_volume_rel": "0.77%",
+    "column_type": "object"
+  },
+  {
+    "column_name": "posting_date",
+    "memory_volume_abs_MB": "29.72",
+    "memory_volume_rel": "0.70%",
+    "column_type": "object"
+  },
+  {
+    "column_name": "model",
+    "memory_volume_abs_MB": "24.66",
+    "memory_volume_rel": "0.58%",
+    "column_type": "object"
+  },
+  {
+    "column_name": "region",
+    "memory_volume_abs_MB": "24.61",
+    "memory_volume_rel": "0.58%",
+    "column_type": "object"
+  },
+  {
+    "column_name": "transmission",
+    "memory_volume_abs_MB": "23.24",
+    "memory_volume_rel": "0.55%",
+    "column_type": "object"
+  },
+  {
+    "column_name": "manufacturer",
+    "memory_volume_abs_MB": "21.92",
+    "memory_volume_rel": "0.52%",
+    "column_type": "object"
+  },
+  {
+    "column_name": "title_status",
+    "memory_volume_abs_MB": "21.83",
+    "memory_volume_rel": "0.51%",
+    "column_type": "object"
+  },
+  {
+    "column_name": "VIN",
+    "memory_volume_abs_MB": "21.64",
+    "memory_volume_rel": "0.51%",
+    "column_type": "object"
+  },
+  {
+    "column_name": "fuel",
+    "memory_volume_abs_MB": "21.28",
+    "memory_volume_rel": "0.50%",
+    "column_type": "object"
+  },
+  {
+    "column_name": "state",
+    "memory_volume_abs_MB": "20.76",
+    "memory_volume_rel": "0.49%",
+    "column_type": "object"
+  },
+  {
+    "column_name": "type",
+    "memory_volume_abs_MB": "20.03",
+    "memory_volume_rel": "0.47%",
+    "column_type": "object"
+  },
+  {
+    "column_name": "cylinders",
+    "memory_volume_abs_MB": "19.68",
+    "memory_volume_rel": "0.46%",
+    "column_type": "object"
+  },
+  {
+    "column_name": "paint_color",
+    "memory_volume_abs_MB": "19.19",
+    "memory_volume_rel": "0.45%",
+    "column_type": "object"
+  },
+  {
+    "column_name": "drive",
+    "memory_volume_abs_MB": "18.68",
+    "memory_volume_rel": "0.44%",
+    "column_type": "object"
+  },
+  {
+    "column_name": "condition",
+    "memory_volume_abs_MB": "18.65",
+    "memory_volume_rel": "0.44%",
+    "column_type": "object"
+  },
+  {
+    "column_name": "size",
+    "memory_volume_abs_MB": "15.95",
+    "memory_volume_rel": "0.37%",
+    "column_type": "object"
+  },
+  {
+    "column_name": "id",
+    "memory_volume_abs_MB": "3.26",
+    "memory_volume_rel": "0.08%",
+    "column_type": "int64"
+  },
+  {
+    "column_name": "price",
+    "memory_volume_abs_MB": "3.26",
+    "memory_volume_rel": "0.08%",
+    "column_type": "int64"
+  },
+  {
+    "column_name": "year",
+    "memory_volume_abs_MB": "3.26",
+    "memory_volume_rel": "0.08%",
+    "column_type": "float64"
+  },
+  {
+    "column_name": "odometer",
+    "memory_volume_abs_MB": "3.26",
+    "memory_volume_rel": "0.08%",
+    "column_type": "float64"
+  },
+  {
+    "column_name": "county",
+    "memory_volume_abs_MB": "3.26",
+    "memory_volume_rel": "0.08%",
+    "column_type": "float64"
+  },
+  {
+    "column_name": "lat",
+    "memory_volume_abs_MB": "3.26",
+    "memory_volume_rel": "0.08%",
+    "column_type": "float64"
+  },
+  {
+    "column_name": "long",
+    "memory_volume_abs_MB": "3.26",
+    "memory_volume_rel": "0.08%",
+    "column_type": "float64"
+  }
+]
